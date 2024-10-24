@@ -8,6 +8,7 @@ export default class CochesDelete extends Component {
     state = {
         redirect: false
     };
+    
 
 
     deleteCoche = () => {
